@@ -22,7 +22,7 @@ While modern Quality Engineers don’t deal with literal bugs, the term “debug
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://uploads-ssl.webflow.com/615af81f65d1ab72d2969269/61964f1908928c12c1b96b3f_618d12829aab1f7f669b4527_Untitled%2520(72).png"><img src="https://uploads-ssl.webflow.com/615af81f65d1ab72d2969269/61964f1908928c12c1b96b3f_618d12829aab1f7f669b4527_Untitled%2520(72).png" alt="TestRail" width="50" height="50"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://images.prismic.io/openjsf/1825791f-02f3-41ba-be1a-e6961fe84d9c_appium-logo-vertical-color_large_square.png?auto=compress,format"><img src="https://images.prismic.io/openjsf/1825791f-02f3-41ba-be1a-e6961fe84d9c_appium-logo-vertical-color_large_square.png?auto=compress,format" alt="Appium" width="50" height="50"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://miro.medium.com/v2/resize:fit:646/0*_-G_sXrKDliXh8_z.png"><img src="https://miro.medium.com/v2/resize:fit:646/0*_-G_sXrKDliXh8_z.png" alt="Playwright" width="50" height="50"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.ifourtechnolab.com/pics/github-actions-automation-tool-ifour.webp"><img src="https://www.ifourtechnolab.com/pics/github-actions-automation-tool-ifour.webp" alt="Playwright" width="50" height="50"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.ifourtechnolab.com/pics/github-actions-automation-tool-ifour.webp"><img src="https://www.ifourtechnolab.com/pics/github-actions-automation-tool-ifour.webp" alt="Playwright" width="60" height="40"></a>
 
 
 
