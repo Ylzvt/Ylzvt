@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/236x/a4/d0/89/a4d089a640dc7caae1b0778ea7e57702.jpg" alt="GitHub" width="200" >
+<img src="https://cdn.prod.website-files.com/6053a5b7250a50f89c543266/66f4ee7d34a0da477b6dd3b9_6667fde49ceb1bc185be474f_soft%2520skills%2520that%2520a%2520QA%2520engineer%2520needs.png" alt="GitHub" width="600" >
 
 ## Hi there, I am Elizabeth 👋
 <h3 class="heading-element" dir="auto">👩‍💻 QA Engineer | JavaScript Enthusiast | Automation Tester</h3>
