@@ -7,7 +7,7 @@
 <li>🔭 I’m currently working on projects focused on API testing, UI testing, and Cypress-based automation in JavaScript.</li>
 <li>🌱 Learning more about <strong>Test Automation Frameworks</strong> and <strong>CI/CD pipelines</strong></li>
 <li>📫 Reach me: <a href="mailto:yelyzaveta.nahorna@gmail.com">yelyzaveta.nahorna@gmail.com</a></li>
-<li>⚡ Fun fact: Fun Fact: The first recorded software bug was a real bug! In 1947, engineers working on the Harvard Mark II computer found a moth trapped in a relay, causing a malfunction. They taped it into the logbook with the note: “First actual case of bug being found.”
+<li>⚡ Fun fact: The first recorded software bug was a real bug! In 1947, engineers working on the Harvard Mark II computer found a moth trapped in a relay, causing a malfunction. They taped it into the logbook with the note: “First actual case of bug being found.”
 While modern Quality Engineers don’t deal with literal bugs, the term “debugging” stuck and is now a core part of software testing!</li>
 </ul>
 <hr></hr>
