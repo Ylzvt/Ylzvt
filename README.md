@@ -23,7 +23,7 @@ While modern Quality Engineers don’t deal with literal bugs, the term “debug
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://images.prismic.io/openjsf/1825791f-02f3-41ba-be1a-e6961fe84d9c_appium-logo-vertical-color_large_square.png?auto=compress,format"><img src="https://images.prismic.io/openjsf/1825791f-02f3-41ba-be1a-e6961fe84d9c_appium-logo-vertical-color_large_square.png?auto=compress,format" alt="Appium" width="70" height="70"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://miro.medium.com/v2/resize:fit:646/0*_-G_sXrKDliXh8_z.png"><img src="https://miro.medium.com/v2/resize:fit:646/0*_-G_sXrKDliXh8_z.png" alt="Playwright" width="70" height="70"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05vpEdPSz5QnpMNl4OiCfG1jHutpt3v7Ucw&s"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05vpEdPSz5QnpMNl4OiCfG1jHutpt3v7Ucw&s" alt="Actions" width="70" height="70"></a>
-
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST--MxQkl2HVCdYtpTN4-P1Urb-aEHbxbKmw&s"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST--MxQkl2HVCdYtpTN4-P1Urb-aEHbxbKmw&s" alt="Actions" width="70" height="70"></a>
 
 
 <!--
