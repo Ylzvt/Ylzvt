@@ -10,6 +10,7 @@
 <li>⚡ Fun fact: Fun Fact: The first recorded software bug was a real bug! In 1947, engineers working on the Harvard Mark II computer found a moth trapped in a relay, causing a malfunction. They taped it into the logbook with the note: “First actual case of bug being found.”
 While modern Quality Engineers don’t deal with literal bugs, the term “debugging” stuck and is now a core part of software testing!</li>
 </ul>
+<hr></hr>
 <!--
 **Ylzvt/Ylzvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
