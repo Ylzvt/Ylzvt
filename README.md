@@ -25,6 +25,8 @@ While modern Quality Engineers don’t deal with literal bugs, the term “debug
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05vpEdPSz5QnpMNl4OiCfG1jHutpt3v7Ucw&s"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05vpEdPSz5QnpMNl4OiCfG1jHutpt3v7Ucw&s" alt="Actions" width="60" height="60"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST--MxQkl2HVCdYtpTN4-P1Urb-aEHbxbKmw&s"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST--MxQkl2HVCdYtpTN4-P1Urb-aEHbxbKmw&s" alt="Actions" width="60" height="60"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://gatographql.com/images/graphql-logo-with-name-square.jpg"><img src="https://gatographql.com/images/graphql-logo-with-name-square.jpg" alt="graphQl" width="60" height="60"></a>
+<hr></hr>
+
 
 
 <!--
