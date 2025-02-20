@@ -1,4 +1,4 @@
-<img src="https://blog.rarecrew.com/image.axd?picture=/QA%20quotes/Vault_BestQAquotes_Blog_930x620px_01.png" alt="GitHub" width="60" >
+<img src="https://blog.rarecrew.com/image.axd?picture=/QA%20quotes/Vault_BestQAquotes_Blog_930x620px_01.png" alt="GitHub" width="1000" >
 
 ## Hi there, I am Elizabeth 👋
 <h3 class="heading-element" dir="auto">👩‍💻 QA Engineer | JavaScript Enthusiast | Automation Tester</h3>
