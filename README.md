@@ -25,8 +25,9 @@ While modern Quality Engineers don’t deal with literal bugs, the term “debug
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST--MxQkl2HVCdYtpTN4-P1Urb-aEHbxbKmw&s"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST--MxQkl2HVCdYtpTN4-P1Urb-aEHbxbKmw&s" alt="Actions" width="60" height="60"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://gatographql.com/images/graphql-logo-with-name-square.jpg"><img src="https://gatographql.com/images/graphql-logo-with-name-square.jpg" alt="graphQl" width="60" height="60"></a>
 <hr></hr>
-
-
+<h3 class="heading-element" dir="auto">📫 Contact Me</h3>
+<p dir="auto"><a href="https://www.linkedin.com/in/elizabeth-nahorna-717105228/" rel="nofollow"><img src="https://camo.githubusercontent.com/b38b096af756695c6acd839338fdf761a79e7282ab4b42b8d1fdd3f8c5d2ffa8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="mailto:yelyzaveta.nahorna@gmail.com"><img src="https://camo.githubusercontent.com/31ad9fb1c9eb1ff0cb02c27cf9b11751cc5862206a61f95ceb12c9c4d66cbd48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a></p>
 
 <!--
 **Ylzvt/Ylzvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
