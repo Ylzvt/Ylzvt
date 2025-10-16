@@ -1,6 +1,6 @@
 
 ## Hi there, I am Elizabeth 👋
-<h3 class="heading-element" dir="auto">👩‍💻 QA Engineer | JavaScript Enthusiast | Automation Tester</h3>
+<h3 class="heading-element" dir="auto">👩‍💻 Quality Automation Engineer | JavaScript Enthusiast | Automation Tester</h3>
 <p dir="auto">I'm a detail-oriented Software QA Engineer with a combined 5.5 years of experience in quality assurance, mentoring, and improving user experiences. I'm passionate about identifying and resolving defects to deliver high-quality products that meet and exceed customer expectations as well as helping others with all knowledge that i have.</p>
 <ul dir="auto">
 <li>🔭 I’m currently working on projects focused on API testing, UI testing, and Cypress-based automation in JavaScript.</li>
